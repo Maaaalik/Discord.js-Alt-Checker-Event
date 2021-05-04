@@ -1,5 +1,5 @@
 const { MessageEmbed } = require("discord.js");
-var moment = require('moment')
+var moment = require('moment') //npm i moment
 
 module.exports = (client) => {
 
